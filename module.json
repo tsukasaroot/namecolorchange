@@ -2,7 +2,7 @@
   "name": "NameColorChange",
   "author": "Miko",
   "description": "Simple tool to change your name's background color",
-  "version": "1.0",
+  "version": "1.1",
   "servers": ["https://raw.githubusercontent.com/Tsukasaroot/namecolorchange/main/"],
   "conflicts": [""]
 }
