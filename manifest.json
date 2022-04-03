@@ -1,6 +1,7 @@
 {
-  "files": {
-    "NameColorChanger.dll": "2210b719a84086b1c5ddfe72fca46abbb7bab0cb4aae6d683781d6da4e9a648b",
-    "module.json": "b67e5e48c8031657a9c6de5d3cd6a3c98d26a5845bc5cc6286cf305b3ec9cadd"
-  }
+    "files": {
+        "NameColorChanger.dll": "f6d69329a2acb580884b1ce6d1eea36a4a17f5357564644189521832b9754808",
+        "README.md": "53ca3539bd28d4bf71fff4f22fae954f0b594cced2e6660423cac19625d62816",
+        "module.json": "1d33a2910faddf146119803b3515e488e77643c5d5a2d5183e11cc151c251863"
+    }
 }
